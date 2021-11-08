@@ -4,15 +4,15 @@
 
 ## Heroku:
 
-https://bearer-auth-dunia.herokuapp.com/
+https://lab7raneem.herokuapp.com/
 
 ## Github Actions:
 
-https://github.com/Duniaalkilany/bearer-auth/actions
+https://github.com/raneemabujamous/bearer-auth/actions
 
 ## pull request :
 
-https://github.com/Duniaalkilany/auth-api/pull/8
+https://github.com/raneemabujamous/bearer-auth/pulls
 
 ## for create (/signup)
 
